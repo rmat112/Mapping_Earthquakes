@@ -8,9 +8,10 @@ For this project I created an earthquake map with two different base maps and th
 - JavaScript<br/>
 - Leaflet.js<br/>
 - GeoJSON data
-- 
+
 # Links
-Link to my JS code: [challenge_logic.js](https://github.com/rmat112/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js)
+Link to my JS code: [challenge_logic.js](https://github.com/rmat112/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js)<br/>
+Link to my deployed webpage for this challenge: https://rmat112.github.io/Mapping_Earthquakes/
 
 # Results
 ### 1. Tectonic Plates
