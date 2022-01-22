@@ -8,6 +8,9 @@ For this project I created an earthquake map with two different base maps and th
 - JavaScript<br/>
 - Leaflet.js<br/>
 - GeoJSON data
+- 
+# Links
+Link to my JS code: [challenge_logic.js](https://github.com/rmat112/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js)
 
 # Results
 ### 1. Tectonic Plates
@@ -47,4 +50,4 @@ Finally, using the options from the Mapbox styles, a third map style is added as
 
 All the earthquake data and tectonic plate data are displayed on the all maps of the webpage (5 pt)
 ![Del3_base3.png](https://github.com/rmat112/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/Del3_base3.png)
-# Summary
+
