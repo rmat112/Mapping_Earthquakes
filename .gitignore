@@ -1,4 +1,4 @@
 # Ignore the config.js file.
-config.js
+# config.js
 # Ignore DS store files
 .DS_Store
